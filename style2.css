@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #111;
+}
+h2{
+    color: #fafafa;
+    font-family: PP Woodland;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 500;
+}
